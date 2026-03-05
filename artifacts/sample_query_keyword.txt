@@ -1,0 +1,7 @@
+Query='nlp search engine' weighting=tfidf similarity=cosine top_k=5 latency_ms=516.536
+Returned 5 result(s):
+ 1. score=0.660527 path=data/synthetic_50000/batch_040/doc_40697.txt
+ 2. score=0.648780 path=data/synthetic_50000/batch_002/doc_02303.txt
+ 3. score=0.638013 path=data/synthetic_50000/batch_035/doc_35904.txt
+ 4. score=0.628599 path=data/synthetic_50000/batch_041/doc_41231.txt
+ 5. score=0.626415 path=data/synthetic_50000/batch_038/doc_38619.txt

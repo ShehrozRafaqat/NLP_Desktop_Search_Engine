@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-03-05T01:39:42Z",
+  "dataset_path": "data/synthetic_50000",
+  "indexed_extensions": [".txt"],
+  "document_count_on_disk": 50000,
+  "index_dir": "index_data/synthetic_50000_idx",
+  "index_size": "11M",
+  "index_manifest": {
+    "total_documents": 50000,
+    "vocabulary_size": 40,
+    "total_tokens": 2750691,
+    "remove_stopwords": false,
+    "use_stemming": false,
+    "index_file": "index.pkl.gz"
+  },
+  "sample_outputs": {
+    "keyword": "artifacts/sample_query_keyword.txt",
+    "phrase": "artifacts/sample_query_phrase.txt",
+    "proximity": "artifacts/sample_query_proximity.txt"
+  }
+}

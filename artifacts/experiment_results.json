@@ -1,0 +1,223 @@
+{
+  "index_manifest": {
+    "total_documents": 50000,
+    "vocabulary_size": 40,
+    "total_tokens": 2750691,
+    "remove_stopwords": false,
+    "use_stemming": false,
+    "built_at_unix": 1772674706.0922084,
+    "index_file": "index.pkl.gz"
+  },
+  "dataset_summary": {
+    "total_documents": 50000,
+    "vocabulary_size": 40,
+    "total_tokens": 2750691
+  },
+  "aggregate": {
+    "runs": 18,
+    "latency_ms_min": 71.0157,
+    "latency_ms_max": 325.3927,
+    "latency_ms_mean": 132.4509,
+    "latency_ms_median": 123.6824
+  },
+  "runs": [
+    {
+      "query": "nlp search engine",
+      "weighting": "boolean",
+      "similarity": "dot",
+      "latency_ms": 325.3927,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_000/doc_00000.txt",
+        "score": 3.0
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "boolean",
+      "similarity": "dot",
+      "latency_ms": 71.0157,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_000/doc_00000.txt",
+        "score": 2.0
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "boolean",
+      "similarity": "dot",
+      "latency_ms": 102.7498,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 11.0
+      }
+    },
+    {
+      "query": "nlp search engine",
+      "weighting": "boolean",
+      "similarity": "cosine",
+      "latency_ms": 123.6366,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_016/doc_16832.txt",
+        "score": 0.39736
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "boolean",
+      "similarity": "cosine",
+      "latency_ms": 81.2631,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_016/doc_16575.txt",
+        "score": 0.324443
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "boolean",
+      "similarity": "cosine",
+      "latency_ms": 128.5773,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 9.254
+      }
+    },
+    {
+      "query": "nlp search engine",
+      "weighting": "count",
+      "similarity": "dot",
+      "latency_ms": 123.7282,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_048/doc_48307.txt",
+        "score": 16.0
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "count",
+      "similarity": "dot",
+      "latency_ms": 76.4463,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_005/doc_05848.txt",
+        "score": 14.0
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "count",
+      "similarity": "dot",
+      "latency_ms": 114.9665,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 23.0
+      }
+    },
+    {
+      "query": "nlp search engine",
+      "weighting": "count",
+      "similarity": "cosine",
+      "latency_ms": 161.4076,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_040/doc_40697.txt",
+        "score": 0.660827
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "count",
+      "similarity": "cosine",
+      "latency_ms": 75.8502,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_023/doc_23137.txt",
+        "score": 0.6875
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "count",
+      "similarity": "cosine",
+      "latency_ms": 136.4412,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 9.641689
+      }
+    },
+    {
+      "query": "nlp search engine",
+      "weighting": "tfidf",
+      "similarity": "dot",
+      "latency_ms": 206.4359,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_048/doc_48307.txt",
+        "score": 27.06283
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "tfidf",
+      "similarity": "dot",
+      "latency_ms": 73.953,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_005/doc_05848.txt",
+        "score": 23.01262
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "tfidf",
+      "similarity": "dot",
+      "latency_ms": 164.218,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 32.098796
+      }
+    },
+    {
+      "query": "nlp search engine",
+      "weighting": "tfidf",
+      "similarity": "cosine",
+      "latency_ms": 198.627,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_040/doc_40697.txt",
+        "score": 0.660527
+      }
+    },
+    {
+      "query": "\"punjab university\"",
+      "weighting": "tfidf",
+      "similarity": "cosine",
+      "latency_ms": 82.7786,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_023/doc_23137.txt",
+        "score": 0.681798
+      }
+    },
+    {
+      "query": "pakistan cricket ^5",
+      "weighting": "tfidf",
+      "similarity": "cosine",
+      "latency_ms": 136.6284,
+      "result_count": 10,
+      "top_result": {
+        "path": "data/synthetic_50000/batch_011/doc_11155.txt",
+        "score": 9.636515
+      }
+    }
+  ]
+}

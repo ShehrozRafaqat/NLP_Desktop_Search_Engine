@@ -1,0 +1,7 @@
+Query='Pakistan Cricket ^5' weighting=tfidf similarity=cosine top_k=5 latency_ms=374.373
+Returned 5 result(s):
+ 1. score=9.636515 path=data/synthetic_50000/batch_011/doc_11155.txt
+ 2. score=6.591773 path=data/synthetic_50000/batch_008/doc_08004.txt
+ 3. score=6.583814 path=data/synthetic_50000/batch_041/doc_41929.txt
+ 4. score=6.560972 path=data/synthetic_50000/batch_047/doc_47426.txt
+ 5. score=6.547580 path=data/synthetic_50000/batch_037/doc_37866.txt

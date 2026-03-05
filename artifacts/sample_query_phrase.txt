@@ -1,0 +1,7 @@
+Query='"Punjab University"' weighting=tfidf similarity=cosine top_k=5 latency_ms=77.216
+Returned 5 result(s):
+ 1. score=0.681798 path=data/synthetic_50000/batch_023/doc_23137.txt
+ 2. score=0.656942 path=data/synthetic_50000/batch_005/doc_05848.txt
+ 3. score=0.640067 path=data/synthetic_50000/batch_044/doc_44574.txt
+ 4. score=0.634778 path=data/synthetic_50000/batch_027/doc_27387.txt
+ 5. score=0.634362 path=data/synthetic_50000/batch_022/doc_22712.txt
