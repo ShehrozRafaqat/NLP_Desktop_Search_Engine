@@ -128,10 +128,10 @@ Output file: `artifacts/experiment_results.json`
 
 ### 4.1 Aggregate Latency
 From 18 runs:
-- Minimum latency: **71.0157 ms**
-- Maximum latency: **325.3927 ms**
-- Mean latency: **132.4509 ms**
-- Median latency: **123.6824 ms**
+- Minimum latency: **69.9815 ms**
+- Maximum latency: **435.2187 ms**
+- Mean latency: **146.6123 ms**
+- Median latency: **130.5733 ms**
 
 ### 4.2 Retrieval Behavior by Mode
 
