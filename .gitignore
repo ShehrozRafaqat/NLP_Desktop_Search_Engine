@@ -10,11 +10,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
-.venv_prompt/
 venv/
-
-# Generated submission archives
-*_Source.zip
 
 # OS/editor
 .DS_Store
