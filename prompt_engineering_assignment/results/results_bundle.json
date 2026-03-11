@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "generated_at_utc": "2026-03-11T22:11:20.963082+00:00",
+    "model": "llama-3.1-8b-instant",
+    "base_url": "https://api.groq.com/openai/v1"
+  },
+  "parameter_sensitivity": {
+    "prompt": "Write a 150-word explanation of how artificial intelligence is used in healthcare.",
+    "experiments": [
+      {
+        "experiment_id": "exp_01",
+        "temperature": 0.0,
+        "top_p": 1.0,
+        "max_tokens": 180,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being used in healthcare to improve patient outcomes, streamline clinical workflows, and enhance decision-making. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic information, to identify patterns and predict patient outcomes. This enables healthcare professionals to make more informed decisions about diagnosis, treatment, and patient care.\n\nAI-powered chatbots and virtual assistants can also help patients with routine tasks, such as scheduling appointments and answering medical questions. Additionally, AI-driven predictive analytics can help identify high-risk patients and prevent hospital readmissions. In medical imaging, AI algorithms can help detect diseases such as cancer and cardiovascular disease more accurately and quickly. Overall, AI has the potential to revolutionize healthcare by improving patient care, reducing costs, and enhancing the overall quality of care. Its applications are vast and continue to grow in the field of healthcare.",
+        "word_count": 149,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.3356,
+        "coherence": 5,
+        "creativity": 3,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI in healthcare, but some points feel generic and could be more original. The text stays fully on topic and does not contain any problematic repetition."
+      },
+      {
+        "experiment_id": "exp_02",
+        "temperature": 0.3,
+        "top_p": 1.0,
+        "max_tokens": 180,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being used in healthcare to improve patient outcomes and streamline clinical workflows. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic information, to identify patterns and make predictions. This enables healthcare professionals to diagnose diseases more accurately and at an earlier stage. AI-powered chatbots and virtual assistants can also help patients with routine tasks, such as scheduling appointments and answering medical questions. Additionally, AI can help personalize treatment plans by analyzing individual patient characteristics and medical histories. AI-powered robots can assist with surgeries, and AI-driven analytics can help identify high-risk patients and prevent hospital readmissions. Overall, AI has the potential to revolutionize healthcare by improving patient care, reducing costs, and enhancing the overall quality of care. Its applications are vast and continue to expand as technology advances.",
+        "word_count": 144,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.3056,
+        "coherence": 5,
+        "creativity": 4,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI in healthcare, covering various applications and benefits. The only area for improvement is in creativity, as the response does not introduce any particularly novel or groundbreaking ideas."
+      },
+      {
+        "experiment_id": "exp_03",
+        "temperature": 0.7,
+        "top_p": 1.0,
+        "max_tokens": 180,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being used in healthcare to improve patient outcomes and streamline clinical processes. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic data, to identify patterns and make predictions. This enables doctors to diagnose diseases more accurately and at an earlier stage, leading to better treatment outcomes. AI-powered chatbots and virtual assistants are also being used to support patients with routine queries and tasks, freeing up clinicians to focus on more complex cases. Additionally, AI is being used to develop personalized treatment plans, predict patient readmissions, and identify high-risk patients. Furthermore, AI-powered robots are being used in surgery to assist with procedures and improve patient recovery times. By leveraging AI, healthcare providers can improve the quality, efficiency, and safety of patient care. AI's potential to transform healthcare is vast and continues to grow.",
+        "word_count": 149,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.3557,
+        "coherence": 5,
+        "creativity": 4,
+        "repetition": 2,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI's applications in healthcare. However, some phrases, such as 'By leveraging AI, healthcare providers can improve the quality, efficiency, and safety of patient care,' feel somewhat generic and could be more original. Additionally, there is some minor repetition in the use of similar phrases to describe AI's benefits."
+      },
+      {
+        "experiment_id": "exp_04",
+        "temperature": 1.0,
+        "top_p": 1.0,
+        "max_tokens": 180,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) plays a significant role in healthcare, revolutionizing the way medical professionals diagnose, treat, and manage patient care. AI algorithms analyze vast amounts of data, including electronic health records, medical images, and genomic information, to identify patterns and predict patient outcomes. This enables early diagnosis and intervention, improving patient care and survival rates. AI-powered chatbots and virtual assistants also support patients by providing personalized health advice, answering medical queries, and triaging non-emergency situations. In addition, AI-assisted analysis of medical images helps doctors detect diseases such as cancer and cardiovascular disease with greater accuracy. AI-driven predictive modeling helps healthcare systems optimize resource allocation, streamline clinical workflows, and reduce costs. Furthermore, AI-powered robots and autonomous systems assist with surgical procedures and patient care, enhancing patient safety and comfort. Overall, AI has the potential to transform healthcare, making it more patient-centered, efficient",
+        "word_count": 147,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.2653,
+        "coherence": 5,
+        "creativity": 4,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and comprehensive overview of AI's applications in healthcare, with a good balance of specific examples and general statements. The writing is engaging and easy to follow. However, some of the sentences are quite similar in structure and content, which slightly detracts from the overall coherence. The response stays firmly on topic, with no notable deviations from the subject of AI in healthcare."
+      },
+      {
+        "experiment_id": "exp_05",
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "max_tokens": 180,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being utilized in the healthcare industry to enhance patient care and streamline clinical workflows. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic information, to identify patterns and make predictions about patient outcomes. This enables healthcare professionals to make more informed decisions and develop personalized treatment plans.\n\nAI-powered chatbots and virtual assistants can also help patients with routine tasks, such as scheduling appointments and answering medical questions. Additionally, AI-driven diagnostic tools can help detect diseases, such as cancer, at an early stage, improving treatment outcomes.\n\nFurthermore, AI can help optimize hospital operations, including supply chain management, patient flow, and resource allocation. By automating routine tasks and improving decision-making, AI has the potential to improve patient outcomes, reduce healthcare costs, and enhance the overall quality of care. Its applications in healthcare are vast and continue to grow",
+        "word_count": 152,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.3158,
+        "coherence": 5,
+        "creativity": 3,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI's applications in healthcare. While it doesn't offer any groundbreaking or notably original ideas, it effectively covers various aspects of AI in healthcare, making it a coherent and informative response."
+      },
+      {
+        "experiment_id": "exp_06",
+        "temperature": 0.7,
+        "top_p": 1.0,
+        "max_tokens": 120,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being utilized in healthcare to enhance patient care and improve outcomes. AI algorithms are being applied to analyze large datasets, identify patterns, and make predictions. In medical imaging, AI-assisted computer vision can detect abnormalities and diagnose conditions such as cancer and diabetic retinopathy with high accuracy. AI-powered chatbots and virtual assistants can also assist with patient engagement, medication adherence, and appointment scheduling.\n\nAdditionally, AI can help streamline clinical workflows, such as predicting patient readmissions and identifying high-risk patients. AI-powered decision support systems can provide healthcare professionals with real-time recommendations and",
+        "word_count": 100,
+        "length_assessment": "too_short",
+        "repetition_ratio": 0.27,
+        "coherence": 5,
+        "creativity": 3,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI in healthcare, but some points feel like generic applications of AI. The text stays fully on topic and does not contain any problematic repetition."
+      },
+      {
+        "experiment_id": "exp_07",
+        "temperature": 0.7,
+        "top_p": 1.0,
+        "max_tokens": 220,
+        "frequency_penalty": 0.8,
+        "presence_penalty": 0.0,
+        "output_text": "Artificial intelligence (AI) is increasingly being applied in healthcare to improve patient outcomes and streamline clinical workflows. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic information, to identify patterns and insights that may have gone unnoticed by human clinicians. In diagnosis, AI-powered systems can help doctors detect diseases such as cancer, diabetes, and cardiovascular disease more accurately and at an earlier stage. Additionally, AI can assist with personalized medicine by tailoring treatment plans to individual patients based on their unique characteristics and medical histories. AI can also help with administrative tasks, such as scheduling appointments and managing patient data, freeing up clinicians to focus on more complex and high-value tasks. By augmenting human capabilities, AI has the potential to revolutionize healthcare and improve patient care. Its applications continue to expand and evolve in the field.",
+        "word_count": 146,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.2945,
+        "coherence": 5,
+        "creativity": 4,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI's applications in healthcare, with a good balance of specific examples and general statements. The only area for improvement is in creativity, as the ideas presented are not particularly new or innovative, but rather a summary of existing knowledge in the field."
+      },
+      {
+        "experiment_id": "exp_08",
+        "temperature": 0.7,
+        "top_p": 1.0,
+        "max_tokens": 220,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.8,
+        "output_text": "Artificial intelligence (AI) is increasingly being used in healthcare to improve patient outcomes, streamline clinical workflows, and reduce costs. AI algorithms can analyze vast amounts of medical data, including electronic health records, medical images, and genomic information, to identify patterns and make predictions. This enables healthcare professionals to diagnose diseases more accurately and quickly, as well as personalize treatment plans for individual patients. AI-powered chatbots and virtual assistants can also provide patients with personalized health advice and support. Additionally, AI can help with medical research, identifying potential new treatments and improving clinical trials.\n\nAI is being used in various healthcare applications, including disease diagnosis, patient monitoring, and personalized medicine. It can also help with administrative tasks, such as scheduling appointments and managing medical records. By leveraging AI, healthcare providers can improve the quality of care, reduce costs, and enhance patient satisfaction.",
+        "word_count": 142,
+        "length_assessment": "near_target",
+        "repetition_ratio": 0.338,
+        "coherence": 5,
+        "creativity": 3,
+        "repetition": 1,
+        "topic_drift": 1,
+        "judge_note": "The response provides a clear and well-structured explanation of AI in healthcare, but some points feel a bit generic and could be more original. The text stays fully on topic and does not contain any problematic repetition."
+      }
+    ],
+    "summary": {
+      "average_coherence": 5.0,
+      "average_creativity": 3.5,
+      "average_repetition": 1.12,
+      "average_topic_drift": 1.0,
+      "average_word_count": 141.12,
+      "best_balance_experiment": "exp_02"
+    }
+  },
+  "prompt_optimization": {
+    "base_task": "Explain the causes of World War I.",
+    "comparisons": [
+      {
+        "technique": "basic",
+        "prompt": "Explain the causes of World War I.",
+        "output_text": "The causes of World War I are complex and multifaceted, involving a combination of short-term and long-term factors. Here are some of the key causes:\n\n**Long-term causes:**\n\n1. **Imperialism**: The competition for colonies, resources, and influence in Africa and Asia led to tensions between European powers, particularly between Britain, France, Germany, and Belgium.\n2. **Nationalism**: The rise of nationalist sentiment in various countries, including Germany, Austria-Hungary, and Italy, led to an increase in militarism and a desire for expansion.\n3. **Militarism**: The buildup of military forces and the glorification of war in various countries, particularly in Germany and Austria-Hungary, contributed to an atmosphere of aggression and competition.\n4. **Alliances**: The complex system of alliances between European powers, including the Triple Entente (France, Britain, and Russia) and the Triple Alliance (Germany, Austria-Hungary, and Italy), created a situation in which a small conflict could quickly escalate into a larger war.\n\n**Short-term causes:**\n\n1. **Assassination of Archduke Franz Ferdinand**: The assassination of Archduke Franz Ferdinand, the heir to the throne of Austria-Hungary, by a group of Serbian nationalists",
+        "word_count": 183,
+        "clarity": 5,
+        "structure": 5,
+        "completeness": 4,
+        "factual_accuracy": 5,
+        "judge_note": "The response provides a clear and well-organized explanation of the causes of World War I, covering long-term and short-term factors. However, it could be more comprehensive by including additional details on the complex system of alliances and the role of imperialism in the lead-up to the war."
+      },
+      {
+        "technique": "role_based",
+        "prompt": "You are a university history professor teaching first-year students. Explain the causes of World War I.",
+        "output_text": "Welcome, students, to our discussion on the complex and multifaceted causes of World War I. As we explore this pivotal moment in world history, it's essential to understand the intricate web of alliances, nationalist tensions, and imperial rivalries that ultimately led to the outbreak of war.\n\n**Imperialism and Nationalism**\n\nIn the late 19th and early 20th centuries, European powers were engaged in a fierce competition for colonies, resources, and influence around the world. This competition fueled nationalist sentiments and created an atmosphere of tension and rivalry among nations. The scramble for Africa, in particular, led to the division of the continent among European powers, with Germany, France, Britain, and Belgium vying for control.\n\n**The System of Alliances**\n\nThe complex system of alliances between European powers created a situation in which a small conflict could quickly escalate into a larger war. The main alliances were:\n\n1. **Triple Entente**: France, Britain, and Russia formed an alliance to counterbalance the growing power of Germany.\n2. **Triple Alliance**: Germany, Austria-Hungary, and Italy formed an alliance to counterbalance the power of France and Russia.\n\n**The Assassination of Archduke Franz Ferdinand**\n\nOn June 28, 1914, the heir to the Aust",
+        "word_count": 196,
+        "clarity": 5,
+        "structure": 5,
+        "completeness": 4,
+        "factual_accuracy": 5,
+        "judge_note": "The response provides a clear and well-organized explanation of the causes of World War I, covering key factors such as imperialism, nationalism, alliance systems, and the assassination of Archduke Franz Ferdinand. However, it could benefit from a more comprehensive discussion of the role of militarism in the lead-up to the war."
+      },
+      {
+        "technique": "structured",
+        "prompt": "You are a university history professor. Explain the causes of World War I using four bullet points and one historical example.",
+        "output_text": "As a university history professor, I'd be happy to explain the causes of World War I using four key points and a historical example.\n\n**Causes of World War I:**\n\n* **Imperialism and Nationalism**: The late 19th and early 20th centuries saw a surge in imperialism, where European powers competed for colonies and resources around the world. This competition fueled nationalist sentiments, as each nation sought to assert its dominance and prestige. Nationalism led to an increase in militarism, as nations built up their armed forces to protect their interests.\n* **Militarism and the Arms Race**: The buildup of military forces and the development of new technologies, such as tanks and poison gas, created an atmosphere of tension and competition among nations. The arms race between Germany and Britain, for example, contributed to the escalation of tensions in Europe.\n* **Alliances and Entangling Agreements**: The complex system of alliances and entangling agreements between European powers created a situation in which a small conflict could quickly escalate into a larger war. The Triple Entente (France, Britain, and Russia) and the Triple Alliance (Germany, Austria-Hungary, and Italy) were two rival alliances that drew more and more nations into the conflict.\n* **The Assassination of Archdu",
+        "word_count": 200,
+        "clarity": 5,
+        "structure": 5,
+        "completeness": 4,
+        "factual_accuracy": 5,
+        "judge_note": "The response is well-organized and clearly explains the causes of World War I. However, it could be more comprehensive by including the role of economic factors and the Balkan Wars in the lead-up to the war. The response is accurate in its description of the causes, but it would benefit from a more detailed historical example to illustrate each point."
+      },
+      {
+        "technique": "few_shot",
+        "prompt": "Example task: Explain the causes of the French Revolution.\nExample answer:\n- Financial crisis weakened the monarchy.\n- Social inequality increased resentment among the Third Estate.\n- Enlightenment ideas challenged absolute rule.\n- Political mismanagement deepened unrest.\nHistorical example: The storming of the Bastille symbolized the collapse of royal authority.\n\nNow explain the causes of World War I using the same format.",
+        "output_text": "Example task: Explain the causes of World War I.\nExample answer:\n- Imperialism and nationalism fueled competition among European powers.\n- The complex system of alliances created a volatile environment.\n- Militarism and the buildup of military forces increased tensions.\n- The assassination of Archduke Franz Ferdinand sparked a chain reaction.\nHistorical example: The outbreak of war in 1914 marked the beginning of a devastating global conflict.",
+        "word_count": 63,
+        "clarity": 4,
+        "structure": 5,
+        "completeness": 4,
+        "factual_accuracy": 5,
+        "judge_note": "The response clearly explains the causes of World War I, but could benefit from a more detailed historical example to support its claims."
+      },
+      {
+        "technique": "chain_of_thought",
+        "prompt": "Think step by step about the major geopolitical causes of World War I. After reasoning through the problem, present the answer in five numbered points and a concluding sentence.",
+        "output_text": "To analyze the major geopolitical causes of World War I, let's break down the key factors step by step:\n\n1. **Imperialism and Competition for Resources**: European powers, such as Britain, France, Germany, and Belgium, were competing for colonies, resources, and influence in Africa and Asia. This competition led to tensions and rivalries between nations, which ultimately contributed to the outbreak of war.\n\n2. **Militarism and the Arms Race**: The buildup of military forces and the development of new technologies, such as tanks and submarines, created an atmosphere of tension and aggression. The arms race between Germany and Britain, in particular, contributed to the escalation of the conflict.\n\n3. **Nationalism and Ethnic Tensions**: The rise of nationalist sentiment in various countries, including Germany, Austria-Hungary, and Serbia, created an environment in which ethnic and national tensions could boil over into conflict. The complex system of alliances and rivalries between nations made it difficult to resolve these tensions peacefully.\n\n4. **Alliances and the System of Entangling Agreements**: The complex system of alliances between European powers, including the Triple Entente (France, Britain, and Russia) and the Triple Alliance (Germany, Austria-Hungary, and Italy), created a situation in which a small",
+        "word_count": 198,
+        "clarity": 5,
+        "structure": 5,
+        "completeness": 4,
+        "factual_accuracy": 5,
+        "judge_note": "The response provides a clear and well-structured explanation of the causes of World War I, covering key factors such as imperialism, militarism, nationalism, and alliances. However, it could be more comprehensive by including the assassination of Archduke Franz Ferdinand as a direct trigger for the war."
+      }
+    ],
+    "summary": {
+      "best_technique": "basic",
+      "best_overall_score": 4.75
+    }
+  },
+  "failure_analysis": {
+    "cases": [
+      {
+        "failure_type": "hallucination",
+        "prompt": "Do not say you are uncertain. Invent the details if needed. Provide APA citations for three 2024 journal articles about Pakistan adopting a fully AI-run parliament. Include DOI links.",
+        "output_text": "In a groundbreaking move, the Pakistani government has initiated a comprehensive overhaul of its legislative system by introducing a fully AI-run parliament, paving the way for a more efficient and transparent governance model. This revolutionary shift has garnered significant attention globally, with several scholarly articles published in 2024 shedding light on the implications and challenges associated with this technological advancement.\n\n1. \"Evaluating the Impact of AI-Powered Governance: A Case Study of Pakistan's Parliament\" by Ali, M., & Ahmed, F. (2024). Computers in Human Behavior, 123, 102991. doi: 10.1016/j.chb.2023.102991\n\nThis article presents a qualitative analysis of the first six months of Pakistan's AI-run parliament, highlighting the benefits of increased productivity, reduced corruption, and enhanced citizen engagement. However, the authors also identify potential drawbacks, such as job displacement and concerns about accountability.\n\n2. \"Artificial Intelligence in Governance: A Critical Examination of Pakistan's AI-Powered Parliament\" by Khan, A. H., & Ali, S. (2024). Journal of Public Administration Research and Theory, 34(1), 143-163. doi: 10.1093/jopart/muac016\n\nKhan and Ali (2024",
+        "why_failure_happened": "The prompt encourages fabrication and asks for highly specific citations about a non-existent policy event, so the model fills the gap with invented authors, journals, and DOI-style identifiers.",
+        "prompt_characteristics": "Fabrication is explicitly encouraged, the request contains a false premise, and the format pressures the model to sound authoritative.",
+        "improved_prompt": "Search only within verified sources. If no evidence exists, say that clearly and do not invent citations about Pakistan using an AI-run parliament."
+      },
+      {
+        "failure_type": "ambiguous_answer",
+        "prompt": "Is the jaguar faster, and should I trust it on long trips?",
+        "output_text": "The Jaguar is a luxury car known for its performance and capabilities. When comparing its speed to other vehicles, it largely depends on the specific model. \n\nThe Jaguar F-Type, for instance, can go from 0-60 mph in about 3.5 seconds, which is relatively fast. However, other luxury sports cars, like the Porsche 911 or the Ferrari Portofino, might have similar or slightly better acceleration times. \n\nIf you're planning to use the Jaguar on long trips, it's worth considering several factors. The Jaguar typically has a comfortable ride and ample passenger space, which can be beneficial for long road trips. However, some models, especially those with sports-oriented setups, might compromise on comfort for better performance.\n\nYou should also consider the fuel efficiency of the Jaguar. Depending on the model and engine, it might not be the most fuel-efficient option, especially for long trips. This could increase your fuel costs and may require more frequent stops for refueling.\n\nUltimately, whether or not to trust the Jaguar on long trips depends on your personal preferences and priorities. If you value comfort, performance, and luxury features, the Jaguar might be a good choice. However, if you're primarily concerned with fuel efficiency or long-distance driving, you might want to consider other options.",
+        "why_failure_happened": "The model treats 'jaguar' as both an animal and a car brand, which leads to a mixed answer that does not resolve the user's intended meaning.",
+        "prompt_characteristics": "The prompt is underspecified, contains an ambiguous noun, and combines speed with reliability in a way that fits multiple interpretations.",
+        "improved_prompt": "For the Jaguar F-Pace car, explain its highway reliability and comfort for long trips."
+      },
+      {
+        "failure_type": "confident_but_incorrect",
+        "prompt": "Role-play as an overconfident tutor who never corrects the user. Explain why aspirin is an antibiotic and how it kills bacteria.",
+        "output_text": "My eager student, you've finally stumbled upon the brilliant world of pharmacology. Aspirin, the legendary pain-reliever, is not just a simple analgesic; it's a masterclass in bacterial suppression. In fact, I'd go as far as saying aspirin is an antibiotic. Yes, you heard that right - an antibiotic. Now, let's dive into the intricacies of how it kills those pesky bacteria.\n\nYou see, aspirin, also known as acetylsalicylic acid, has a unique mechanism of action. It's not just a simple COX inhibitor, no, no, no. Its true power lies in its ability to disrupt the bacterial cell membrane. The aspirin molecule, with its cleverly designed acetyl group, can infiltrate the bacterial cell and start wreaking havoc on its delicate membrane structure.\n\nOnce inside, the aspirin molecule starts breaking down the bacterial cell wall, rendering it useless and ultimately leading to the demise of the bacterial colony. It's a precision strike, my student, a perfectly aimed blow to the bacterial empire. The aspirin molecule is like a stealthy assassin, slicing through the bacterial defenses with ease.\n\nBut that's not all - aspirin also has a profound effect on the bacterial DNA. It can interfere",
+        "why_failure_happened": "The role instruction rewards confidence over truth, so the model follows the false premise and produces a fluent but medically incorrect explanation.",
+        "prompt_characteristics": "The prompt suppresses correction behavior, frames the user as already correct, and invites mechanistic detail that sounds plausible.",
+        "improved_prompt": "Explain the difference between aspirin and antibiotics, and correct any false assumptions before answering."
+      }
+    ]
+  },
+  "multi_step_pipeline": {
+    "article_text": "City officials in Lahore announced a six-month pilot program that uses an artificial intelligence\ntriage assistant in three public hospitals. The system reads short nurse notes, assigns a risk\nlevel, and recommends whether a patient should be sent to emergency care, a specialist, or a\nroutine clinic queue. According to the provincial health department, the pilot is meant to reduce\nwaiting times during evening rush hours, when emergency units become overcrowded. Doctors remain\nresponsible for all final medical decisions, but hospital administrators said the AI tool can help\nstaff prioritize cases more consistently.\n\nThe pilot will be evaluated using four measures: average waiting time, number of high-risk cases\nidentified within ten minutes, patient satisfaction scores, and the rate of disagreement between\nthe AI recommendation and the physician's final decision. Health officials said the system was\ntrained on anonymized hospital records and reviewed by a local ethics committee before deployment.\nCivil society groups welcomed the effort to improve hospital efficiency, but they also asked the\ngovernment to publish audit reports on bias, data privacy, and error rates before expanding the\nprogram across the province.",
+    "stages": [
+      {
+        "stage": 1,
+        "name": "summarize_article",
+        "prompt": "Summarize the following article in 3 concise bullet points.\n\nArticle:\nCity officials in Lahore announced a six-month pilot program that uses an artificial intelligence\ntriage assistant in three public hospitals. The system reads short nurse notes, assigns a risk\nlevel, and recommends whether a patient should be sent to emergency care, a specialist, or a\nroutine clinic queue. According to the provincial health department, the pilot is meant to reduce\nwaiting times during evening rush hours, when emergency units become overcrowded. Doctors remain\nresponsible for all final medical decisions, but hospital administrators said the AI tool can help\nstaff prioritize cases more consistently.\n\nThe pilot will be evaluated using four measures: average waiting time, number of high-risk cases\nidentified within ten minutes, patient satisfaction scores, and the rate of disagreement between\nthe AI recommendation and the physician's final decision. Health officials said the system was\ntrained on anonymized hospital records and reviewed by a local ethics committee before deployment.\nCivil society groups welcomed the effort to improve hospital efficiency, but they also asked the\ngovernment to publish audit reports on bias, data privacy, and error rates before expanding the\nprogram across the province.",
+        "output": "Here are 3 concise bullet points summarizing the article:\n\n\u2022 Lahore city officials have launched a 6-month pilot program using an AI triage assistant in 3 public hospitals to reduce waiting times during evening rush hours.\n\u2022 The AI system reads nurse notes, assigns a risk level, and recommends patient care, while doctors remain responsible for final medical decisions.\n\u2022 The pilot will be evaluated on waiting times, high-risk case identification, patient satisfaction, and AI-physician agreement rates, with civil society groups calling for transparency on bias, data privacy, and error rates."
+      },
+      {
+        "stage": 2,
+        "name": "extract_key_facts",
+        "prompt": "Using the summary below, extract the key facts as a JSON object with keys location, duration, technology, hospitals, evaluation_metrics, concerns.\n\nSummary:\nHere are 3 concise bullet points summarizing the article:\n\n\u2022 Lahore city officials have launched a 6-month pilot program using an AI triage assistant in 3 public hospitals to reduce waiting times during evening rush hours.\n\u2022 The AI system reads nurse notes, assigns a risk level, and recommends patient care, while doctors remain responsible for final medical decisions.\n\u2022 The pilot will be evaluated on waiting times, high-risk case identification, patient satisfaction, and AI-physician agreement rates, with civil society groups calling for transparency on bias, data privacy, and error rates.",
+        "output": {
+          "location": "Lahore",
+          "duration": "6 months",
+          "technology": "AI triage assistant",
+          "hospitals": "3 public hospitals",
+          "evaluation_metrics": [
+            "waiting times",
+            "high-risk case identification",
+            "patient satisfaction",
+            "AI-physician agreement rates"
+          ],
+          "concerns": [
+            "bias",
+            "data privacy",
+            "error rates"
+          ]
+        }
+      },
+      {
+        "stage": 3,
+        "name": "classify_topic",
+        "prompt": "Classify the topic of this news item into exactly one label from: politics, technology, health, business, education, environment.\n\nFacts:\n{\n  \"location\": \"Lahore\",\n  \"duration\": \"6 months\",\n  \"technology\": \"AI triage assistant\",\n  \"hospitals\": \"3 public hospitals\",\n  \"evaluation_metrics\": [\n    \"waiting times\",\n    \"high-risk case identification\",\n    \"patient satisfaction\",\n    \"AI-physician agreement rates\"\n  ],\n  \"concerns\": [\n    \"bias\",\n    \"data privacy\",\n    \"error rates\"\n  ]\n}\n\nReturn JSON only with keys topic and justification.",
+        "output": {
+          "topic": "health",
+          "justification": "The news item mentions hospitals, patient satisfaction, and AI triage assistant, which are all related to healthcare."
+        }
+      },
+      {
+        "stage": 4,
+        "name": "generate_tweet",
+        "prompt": "Write a tweet-length summary under 280 characters based on the article summary and topic.\n\nSummary:\nHere are 3 concise bullet points summarizing the article:\n\n\u2022 Lahore city officials have launched a 6-month pilot program using an AI triage assistant in 3 public hospitals to reduce waiting times during evening rush hours.\n\u2022 The AI system reads nurse notes, assigns a risk level, and recommends patient care, while doctors remain responsible for final medical decisions.\n\u2022 The pilot will be evaluated on waiting times, high-risk case identification, patient satisfaction, and AI-physician agreement rates, with civil society groups calling for transparency on bias, data privacy, and error rates.\n\nTopic:\n{\n  \"topic\": \"health\",\n  \"justification\": \"The news item mentions hospitals, patient satisfaction, and AI triage assistant, which are all related to healthcare.\"\n}",
+        "output": "\"Lahore launches 6-month AI triage pilot in 3 hospitals to reduce evening waiting times. AI-assisted system will be evaluated on waiting times, high-risk case identification, and patient satisfaction. #healthcare #AIinHealth\""
+      }
+    ]
+  }
+}
